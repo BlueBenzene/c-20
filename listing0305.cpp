@@ -12,7 +12,7 @@ int main () {
         sum += x;
         ++count;
     }
-    if (count = 0 )
+    if (count == 0 )
     std::cout << "No Data.\n";
     else
         std::cout << "average = " << sum / count << '\n';
