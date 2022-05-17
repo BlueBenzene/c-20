@@ -8,6 +8,7 @@ int main () {
     int count{};
     int x;
     while (std::cin >> x)
+    
     {
         sum += x;
         ++count;
