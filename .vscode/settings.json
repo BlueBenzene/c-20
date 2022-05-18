@@ -14,7 +14,9 @@
   "C_Cpp_Runner.warningsAsError": false,
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
-  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includePaths": [
+    "/usr/local/Cellar/boost/1.78.0_1/include/boost/predef/other"
+  ],
   "C_Cpp_Runner.includeSearch": [
     "*",
     "**/*"
